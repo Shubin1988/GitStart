@@ -1,0 +1,53 @@
+[33mcommit 1be47822044cc802be04dbccd1d2a1008d0da40b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: shubin1988 <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 11:26:44 2021 +0300
+
+    Changed
+
+[33mcommit 642ad477f8469ca67c241f0014302dd890f317c5[m
+Author: shubin1988 <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 11:24:23 2021 +0300
+
+    Test.html added
+
+[33mcommit 1bab1720929e45c1b046b1b5e0ee2174fb9b9894[m
+Author: shubin1988 <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 11:15:26 2021 +0300
+
+    styles renamed
+
+[33mcommit df87f97a02bf761a8f9fba504e755872e196a846[m
+Author: shubin1988 <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 11:13:39 2021 +0300
+
+    test.html ignored
+
+[33mcommit 3ba58b97e6c08747144af7b9bc97888adbc88601[m
+Author: shubin1988 <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 11:06:15 2021 +0300
+
+    gitignore
+
+[33mcommit 8195a63c8579f510c3d57a1e1fff0c5340f30cc5[m
+Author: shubin1988 <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 10:57:40 2021 +0300
+
+    doctype added
+
+[33mcommit 63a3c17295c376ddcebf28dbaac39d67de0c0fe0[m
+Author: shubin1988 <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 10:49:20 2021 +0300
+
+    added scripts, styles and test page
+
+[33mcommit d119ffd6ddfdb1dad4077b7157ff303f833d000b[m
+Author: shubin1988 <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 10:17:18 2021 +0300
+
+    Styles added
+
+[33mcommit df9137d667cebf10e318578f3499dbae9a755d3e[m
+Author: Иван Шубин <Shubin_ivan@inbox.ru>
+Date:   Mon Apr 19 10:08:37 2021 +0300
+
+    initial commit
